@@ -6,6 +6,9 @@ It's built with React and Fabric UI.
 
 ![](breadcrumb.gif)
 
+You can find more information on this blog:<br />
+https://zsvipullo.blogspot.com/2019/03/add-breadcrumb-to-sharepoint-list-view.html
+
 Requirements
 -------------
 Node.js & NPM

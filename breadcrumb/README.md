@@ -4,8 +4,6 @@ Create a breadcrumb for each List View Web Part on SharePoint classic page, to e
 
 It's built with React and Fabric UI.
 
-![](breadcrumb.gif)
-
 Requirements
 -------------
 Node.js & NPM

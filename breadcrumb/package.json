@@ -1,0 +1,43 @@
+{
+  "name": "breadcrumb",
+  "version": "1.0.0",
+  "description": "SharePoint breadcrumb for List View Web Part",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server",
+    "build": "./node_modules/.bin/webpack"
+  },
+  "keywords": [],
+  "author": "RiccardoGDev",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/react": "^16.8.5",
+    "@types/react-dom": "^16.8.2",
+    "babel-loader": "^8.0.5",
+    "babel-polyfill": "^6.26.0",
+    "html-webpack-plugin": "^3.2.0",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^5.3.3",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "dependencies": {
+    "@types/sharepoint": "^2016.1.2",
+    "office-ui-fabric-react": "^6.146.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "typescript": "^3.3.3333"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiccardoGDev/SharePoint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RiccardoGDev/SharePoint/issues"
+  },
+  "homepage": "https://github.com/RiccardoGDev/SharePoint#readme"
+}

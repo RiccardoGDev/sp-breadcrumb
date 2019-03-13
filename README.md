@@ -13,7 +13,7 @@ Node.js & NPM
 Usage
 -----
 ```
-git clone https://github.com/RiccardoGDev/SharePoint.git
+git clone https://github.com/RiccardoGDev/sp-breadcrumb.git
 cd breadcrumb
 npm install
 npm run build
